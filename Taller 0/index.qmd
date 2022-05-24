@@ -1,0 +1,286 @@
+---
+title: "Taller 0: Herramientas de Organización en PyMES y Micro PyMES."
+autor: "Lic. Diego Saavedra Mg. Sc."
+format:
+  revealjs: 
+    theme: dark
+  pdf: 
+    cite-method: biblatex
+bibliography: Prueba.bib
+cls: apa.cls
+---
+
+# Herramientas de Organización para PyMES y Micro PyMES.
+ <div data-id="box" style="height: 50px; background: #681511;"></div>
+
+**Autor:** Lic. Diego Saavedra Mg. Sc.
+
+**Institución:** Instituto Superior Tecnológico Juan Montalvo.
+
+**Fecha:** 24 de mayo del 2022.
+
+## Herramientas de Organización en PyMES y Micro PyMES.
+ <div data-id="box" style="height: 50px; background: #681511;"></div>
+
+![PyMES y Micro PyMES](media/pymes-babos.png "Title: PyMES y Micro PyMES"){fig-alt="Herramientas de PyMES"}
+
+## Herramientas de Organización en PyMES y Micro PyMES.
+ <div data-id="box" style="height: 50px; background: #681511;"></div>
+
+::: {.incremental}
+* Según @pregoWhatsAppAbreSu2022 la app de mensajería dispone ya desde hace tiempo de un servicio pensado para la comunicación empresarial, WhatsApp Business, y una plataforma de negocios que —entre otras cosas— **permite** generar un sistema de respuestas automáticas, bots, para facilitar el contacto entre los negocios y sus clientes. 
+ <br>
+
+* Por otra parte se anuncia la apertura de una API que beneficiará a importantes PyMES y Micro PyMES [-@pregoWhatsAppAbreSu2022].
+:::
+
+## Herramientas de Organización en PyMES y Micro PyMES.
+ <div data-id="box" style="height: 50px; background: #681511;"></div>
+
+* @rodriguezAmazonOfreceGratuitamente2021 menciona la oferta de Amazon incluye 50 escritorios en remoto, un paquete de rendimiento de Windows, dos paquetes estándar de Linux y un paquete de valor de Windows de Workspaces, que podrán usarla sin cargos hasta el 31 de julio de 2021. 
+
+## Workspaces Google.
+ <div data-id="box" style="height: 50px; background: #681511;"></div>
+
+Workspaces Google| Dispositivos
+-----|-----:
+![Workspaces Google](media/gsuite.png "Title: Workspaces Google"){fig-alt="G-Suite"}|![PyMES](media/pcs.png "Title: Dispositivos"){fig-alt="G-Suite"}
+
+: Workspaces Google en PyMES y Micro PyMES.
+
+## Workspaces Google.
+ <div data-id="box" style="height: 50px; background: #681511;"></div>
+
+::: {.incremental}
+
+* Durante la pandemia aparecieron soluciones como **Google For Education** para que niños y jovenes se puedan educar de forma **gratuita** de acuerdo a su página oficial @SolucionesDisenadasPara2022.
+ 
+* Esto permitió a profesores de distintas instituciones educativas poder utilizar diferentes herramientas de **Google** como Drive, Meet, Gmail, Classroom, entre otros (Servicios propios de G Suite ahora llamado Workspaces).
+:::
+
+## Calendario sincronizado en la organización.
+ <div data-id="box" style="height: 50px; background: #681511;"></div>
+
+![Calendario](media/calendario.png "Title: Calendario"){fig-alt="Herramientas de PyMES"}
+
+## Calendario sincronizado en la organización.
+ <div data-id="box" style="height: 50px; background: #681511;"></div>
+
+::: {.incremental}
+* Workspace Calendar permite sincronizar eventos, recordatorios o reuniones de forma gratuita para PyMES y Micro PyMES de forma gratuita, además de configurar de forma sencilla y agregando reuniones de Meet, Zoom, entre otras herramientas @CalendarioGoogleCalendarios2022.
+:::
+
+## Conversaciones seguras y centralizadas con el chat.
+ <div data-id="box" style="height: 50px; background: #681511;"></div>
+
+![Conversaciones Seguras](media/conversaciones.png "Title: Conversaciones Seguras"){fig-alt="Conversaciones Seguras"}
+
+## Conversaciones seguras y centralizadas con el chat.
+ <div data-id="box" style="height: 50px; background: #681511;"></div>
+
+::: {.incremental}
+* Preguntas como **¿dónde esta el servidor? ¿quién lo administra?¿en qué país y bajo que legislación estarán protegidos mis datos?** se encuentran dentro de @NextcloudOnlyOfficeRafael2020 de lo cual se puede conocer que las conversaciones no son seguras y existen herramientas de software libre que nos permiten mejorar las propuestas de segurdiad en las PyMES y Micro PyMES.
+::: 
+
+## Drive para Documentos en la nube.
+ <div data-id="box" style="height: 50px; background: #681511;"></div>
+
+![Workspaces Drive](media/drive.png "Title: Workspaces Drive"){fig-alt="Herramientas de PyMES"}
+
+## Drive para Documentos en la nube.
+ <div data-id="box" style="height: 50px; background: #681511;"></div>
+
+::: {.incremental}
+* Existen varias nubes en la actualidad, @martiGoogleDriveVs2021 analiza **Dropbox, OneDrive, Google Drive y iCloud**.
+
+* Estos servicios permiten a las PyMES y Micro PyMES poder almacenar sus archivos en espacios fuera de la organización, se recomienda revisar alternativas como las que menciona en su artículo @RafaelBonifazSoftware2020 para tener más control de la información privada.
+:::
+
+## Todo en Mobile.
+ <div data-id="box" style="height: 50px; background: #681511;"></div>
+
+![Mobile](media/mobile.png "Title: Mobile"){fig-alt="Herramientas de PyMES"}
+
+## Todo en Mobile.
+ <div data-id="box" style="height: 50px; background: #681511;"></div>
+
+::: {.incremental}
+* En 2020 se anuncia **"Workspaces Google"**, su nueva plataforma de colaboración para pequeñas y grandes empresas que viene a sustituir y unificar G Suite. Se trata de un espacio de trabajo para usuarios profesionales que integra todos los servicios de Google, a saber Gmail, Calendar, Drive, Docs y Meet. 
+
+* De esa forma, los trabajadores y usuarios pueden acceder a todo tipo de documentos o contenidos desde un mismo lugar según @garciaSuiteAhoraEs2020.
+:::
+
+# Propuesta Inicial.
+ <div data-id="box" style="height: 50px; background: #681511;"></div>
+
+::: {.incremental}
+1. Curso de G Suite (Google Documents, Spreadsheets and Presentations, Calendar, etc). 
+2. Curso de Comunicaciones Seguras.
+3. Uso adecuado del móvil.
+:::
+
+# ¿Cómo se puede mejorar la Productividad en una Organización?
+ <div data-id="box" style="height: 50px; background: #681511;"></div>
+
+## ¿Qué tan importante es la productividad en tu organización?
+ <div data-id="box" style="height: 50px; background: #681511;"></div>
+
+::: {.incremental}
+ Es la pregunta que se hace @bensleyProductividadPymesIdeas2019 y su respuesta fue:
+
+ * Automatizar ventas.
+ * La atención al cliente.
+ * Los procesos de marketing.
+:::
+
+# ¿Qué otras aplicaciones se pueden utilizar para mejorar la productividad en las organizaciones?
+ <div data-id="box" style="height: 50px; background: #681511;"></div>
+
+## Trello
+ <div data-id="box" style="height: 50px; background: #681511;"></div>
+
+![Trello](media/trello.png "Title: Mobile"){fig-alt="Herramientas de PyMES"}
+
+## Trello
+ <div data-id="box" style="height: 50px; background: #681511;"></div>
+
+![Trello](media/trello.png "Title: Mobile"){fig-alt="Herramientas de PyMES"}
+
+En el artículo @TrelloSoftwareProductividad2020 se mencionan algunas caracteristicas y ventajas de esta aplicación:
+
+::: {.incremental}
+
+* Es un software que te permitirá gestionar tus proyectos de manera sencilla, flexible y visual.
+* Con la implantación de esta solución podrás organizar cualquier actividad y asignarla a un compañero de proyecto. 
+:::
+
+## Trello
+ <div data-id="box" style="height: 50px; background: #681511;"></div>
+
+![Trello](media/trello.png "Title: Mobile"){fig-alt="Herramientas de PyMES"}
+
+::: {.incremental}
+* Esta herramienta de gestión de proyectos y productividad se adapta a todo tipo de empresas y a cualquier tamaño de negocio. 
+* Con Trello podrás tener toda la información necesaria en un solo vistazo y colaborar en los proyectos de principio a fin.
+:::
+
+## Trello
+ <div data-id="box" style="height: 50px; background: #681511;"></div>
+
+![Trello](media/trello.png "Title: Mobile"){fig-alt="Herramientas de PyMES"}
+
+::: {.incremental}
+* Añade a cada proyecto comentarios, fotos, archivos... 
+* Trabaja con todos los miembros del equipo de forma simultánea.
+* Gestiona las tareas según su estado: en proceso, realizada, etc.
+:::
+
+## Trello
+ <div data-id="box" style="height: 50px; background: #681511;"></div>
+
+![Trello](media/trello.png "Title: Mobile"){fig-alt="Herramientas de PyMES"}
+
+::: {.incremental}
+* Sincronización de datos. 
+* Adaptabilidad.
+* Personalización de la plataforma. 
+:::
+
+# Notion
+ <div data-id="box" style="height: 50px; background: #681511;"></div>
+
+![Notion](media/notion.png "Title: Mobile"){fig-alt="Notion"}
+
+## Notion
+ <div data-id="box" style="height: 50px; background: #681511;"></div>
+
+![Notion](media/notion.png "Title: Mobile"){fig-alt="Notion"}
+
+::: {.incremental}
+* Notion es un sistema web, programa y aplicación que funciona como un espacio de trabajo minimalista multifunción [-@QueEsNotion2021].
+
+:::
+
+## Notion
+ <div data-id="box" style="height: 50px; background: #681511;"></div>
+
+![Notion](media/notion.png "Title: Mobile"){fig-alt="Notion"}
+
+Entre sus muchísimas capacidades, Notion permite al usuario:
+
+::: {.incremental}
+* Crear páginas de texto enriquecido, 
+* Generar plantillas compartidas (calendarios, apuntes, checklist…), 
+:::
+
+## Notion
+
+ <div data-id="box" style="height: 50px; background: #681511;"></div>
+
+![Notion](media/notion.png "Title: Mobile"){fig-alt="Notion"}
+
+::: {.incremental}
+* Adjuntar notas en cualquier formato, 
+* Diseñar un gestor de carpetas online, 
+* Componer bases de datos, 
+:::
+
+## Notion
+
+ <div data-id="box" style="height: 50px; background: #681511;"></div>
+
+![Notion](media/notion.png "Title: Mobile"){fig-alt="Notion"}
+
+::: {.incremental}
+* Escribir en decenas de lenguajes de programación, 
+* Embeber contenido externo y muchas otras funciones.
+:::
+
+# Notas
+ <div data-id="box" style="height: 50px; background: #681511;"></div>
+
+![Notas](media/notas.png "Title: Mobile"){fig-alt="Notion"}
+
+## Notas
+ <div data-id="box" style="height: 50px; background: #681511;"></div>
+
+Existen multiples herramientas que nos permite tomar notas de forma virtual, entre ellas este articulo @HerramientasImprescindiblesPara2020 menciona algunas de ellas.
+
+::: {.incremental}
+* Evernote.
+* Google Keep.
+* Hackpad.
+* Microsoft OneNote.
+* Moleskine Journal.
+::: 
+
+# Propuesta
+ <div data-id="box" style="height: 50px; background: #681511;"></div>
+
+::: {.incremental}
+1. Responder automáticamente solicitudes por correo electrónico.
+2. Asigna los clientes potenciales entrantes a tu representante de ventas.
+3. Lleva tus oportunidades de lo físico a lo digital.
+:::
+
+# Propuesta
+ <div data-id="box" style="height: 50px; background: #681511;"></div>
+
+::: {.incremental}
+4. Agenda reuniones sin tanto ir y venir.
+5. Facilita a los clientes pedir ayuda.
+6. Usa un chat o un bot.
+7. Limpia tus listas de correos.
+:::
+
+# Ir más allá.
+ <div data-id="box" style="height: 50px; background: #681511;"></div>
+
+::: {.incremental}
+* Si usted desea profundizar en los contenidos aquí expuestos, le invitarmos a revisar el artículo de @garciaSuiteAhoraEs2020 y la bibliografía a continuación, donde se analiza distintos ascpectos que debería conocer.
+:::
+
+## Referencias
+
+::: {#refs}
+:::

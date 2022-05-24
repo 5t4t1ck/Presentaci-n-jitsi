@@ -1,0 +1,196 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{CalendarioGoogleCalendarios2022}{misc}{}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Calendarios que se pueden compartir diseñados para equipos. Calendario~de~Google sugiere horarios de reuniones y se integra sin problemas a Gmail. Obtenga Calendario como parte de Google~Workspace.}
+      \field{howpublished}{https://workspace.google.com/intl/es-419/products/calendar/}
+      \field{langid}{es-419}
+      \field{shorttitle}{{Calendario de Google}}
+      \field{title}{{Calendario de Google: calendarios en línea para empresas | Google Workspace}}
+      \field{year}{2022}
+      \verb{file}
+      \verb /home/statick/Zotero/storage/NVLXRX7X/calendar.html
+      \endverb
+    \endentry
+    \entry{garciaSuiteAhoraEs2020}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=9dda524a2342ccf427a1746c7f8001c5}{%
+           family={García},
+           familyi={G\bibinitperiod},
+           given={Jose},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{9dda524a2342ccf427a1746c7f8001c5}
+      \strng{fullhash}{9dda524a2342ccf427a1746c7f8001c5}
+      \strng{bibnamehash}{9dda524a2342ccf427a1746c7f8001c5}
+      \strng{authorbibnamehash}{9dda524a2342ccf427a1746c7f8001c5}
+      \strng{authornamehash}{9dda524a2342ccf427a1746c7f8001c5}
+      \strng{authorfullhash}{9dda524a2342ccf427a1746c7f8001c5}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Google acaba de anunciar Google Workspace, su nueva plataforma de colaboración para pequeñas y grandes empresas que viene a sustituir y unificar G Suite. Se...}
+      \field{chapter}{pro}
+      \field{howpublished}{https://www.xataka.com/pro/google-workspace-asi-nuevo-espacio-trabajo-integrado-google-gmail-docs-meet-para-empresas}
+      \field{journaltitle}{Xataka}
+      \field{langid}{spanish}
+      \field{month}{10}
+      \field{shorttitle}{{G Suite ahora es Google Workspace}}
+      \field{title}{{G Suite ahora es Google Workspace: así es el nuevo espacio de trabajo integrado con GMail, Docs y Meet para empresas}}
+      \field{year}{2020}
+      \verb{file}
+      \verb /home/statick/Zotero/storage/Y2KK4V65/google-workspace-asi-nuevo-espacio-trabajo-integrado-google-gmail-docs-meet-para-empresas.html
+      \endverb
+    \endentry
+    \entry{martiGoogleDriveVs2021}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=ced746b8a8802b8f0635434f73e166d9}{%
+           family={Martí},
+           familyi={M\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{ced746b8a8802b8f0635434f73e166d9}
+      \strng{fullhash}{ced746b8a8802b8f0635434f73e166d9}
+      \strng{bibnamehash}{ced746b8a8802b8f0635434f73e166d9}
+      \strng{authorbibnamehash}{ced746b8a8802b8f0635434f73e166d9}
+      \strng{authornamehash}{ced746b8a8802b8f0635434f73e166d9}
+      \strng{authorfullhash}{ced746b8a8802b8f0635434f73e166d9}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Poco a poco el recurso de los servicios en la nube se ha ido haciendo muy habitual en el día a día, ya sea por ocio o por trabajo, y en algunos casos rara es...}
+      \field{chapter}{servicios}
+      \field{howpublished}{https://www.xataka.com/servicios/google-drive-vs-onedrive-vs-dropbox-vs-icloud-comparativa-apps-movil-principales-servicios-nube}
+      \field{journaltitle}{Xataka}
+      \field{langid}{spanish}
+      \field{month}{6}
+      \field{shorttitle}{{Google Drive vs Onedrive vs Dropbox vs iCloud}}
+      \field{title}{{Google Drive vs Onedrive vs Dropbox vs iCloud: comparativa de las apps de móvil de los principales servicios en la nube}}
+      \field{year}{2021}
+      \verb{file}
+      \verb /home/statick/Zotero/storage/JAASKS39/google-drive-vs-onedrive-vs-dropbox-vs-icloud-comparativa-apps-movil-principales-servicios-nube.html
+      \endverb
+    \endentry
+    \entry{NextcloudOnlyOfficeRafael2020}{misc}{}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{{Nextcloud + OnlyOffice –{} Rafael Bonifaz}}
+      \field{year}{2020}
+    \endentry
+    \entry{pregoWhatsAppAbreSu2022}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=5cd84a9352fe7eea0b46a1985eaa4250}{%
+           family={Prego},
+           familyi={P\bibinitperiod},
+           given={Carlos},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{5cd84a9352fe7eea0b46a1985eaa4250}
+      \strng{fullhash}{5cd84a9352fe7eea0b46a1985eaa4250}
+      \strng{bibnamehash}{5cd84a9352fe7eea0b46a1985eaa4250}
+      \strng{authorbibnamehash}{5cd84a9352fe7eea0b46a1985eaa4250}
+      \strng{authornamehash}{5cd84a9352fe7eea0b46a1985eaa4250}
+      \strng{authorfullhash}{5cd84a9352fe7eea0b46a1985eaa4250}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{WhatsApp redobla su apuesta por el cliente profesional y apunta a los negocios de menor tamaño, clave en un tejido empresarial como el español. El CEO de...}
+      \field{chapter}{aplicaciones}
+      \field{howpublished}{https://www.xataka.com/aplicaciones/whatsapp-abre-su-api-nube-a-todas-empresas-que-se-viene-podemos-esperar-a-partir-ahora}
+      \field{journaltitle}{Xataka}
+      \field{langid}{spanish}
+      \field{month}{5}
+      \field{shorttitle}{{WhatsApp abre su API en la nube a todas las empresas}}
+      \field{title}{{WhatsApp abre su API en la nube a todas las empresas: qué se viene y podemos esperar a partir de ahora}}
+      \field{year}{2022}
+      \verb{file}
+      \verb /home/statick/Zotero/storage/RSMPV432/whatsapp-abre-su-api-nube-a-todas-empresas-que-se-viene-podemos-esperar-a-partir-ahora.html
+      \endverb
+    \endentry
+    \entry{RafaelBonifazSoftware2020}{misc}{}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{https://rafael.bonifaz.ec/blog/}
+      \field{title}{Rafael {{Bonifaz}} –{} {{Software}} Libre, Criptografía, Privacidad y Algo Más}
+      \field{year}{2020}
+      \verb{file}
+      \verb /home/statick/Zotero/storage/5BN8HFRC/blog.html
+      \endverb
+    \endentry
+    \entry{rodriguezAmazonOfreceGratuitamente2021}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=3534ed765dd0c57b190d92032115bd74}{%
+           family={Rodríguez},
+           familyi={R\bibinitperiod},
+           given={Pablo},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{3534ed765dd0c57b190d92032115bd74}
+      \strng{fullhash}{3534ed765dd0c57b190d92032115bd74}
+      \strng{bibnamehash}{3534ed765dd0c57b190d92032115bd74}
+      \strng{authorbibnamehash}{3534ed765dd0c57b190d92032115bd74}
+      \strng{authornamehash}{3534ed765dd0c57b190d92032115bd74}
+      \strng{authorfullhash}{3534ed765dd0c57b190d92032115bd74}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Amazon ha anunciado que ofrecerá de forma gratuita su herramienta de teletrabajo WorkSpaces a pequeñas y medianas empresas hasta el verano de 2021, de forma...}
+      \field{chapter}{pro}
+      \field{howpublished}{https://www.xataka.com/pro/amazon-ofrece-gratuitamente-su-herramienta-teletrabajo-para-pymes-50-escritorios-remotos-verano}
+      \field{journaltitle}{Xataka}
+      \field{langid}{spanish}
+      \field{month}{2}
+      \field{shorttitle}{{Amazon ofrece gratuitamente su herramienta de teletrabajo para pymes}}
+      \field{title}{{Amazon ofrece gratuitamente su herramienta de teletrabajo para pymes: hasta 50 escritorios remotos hasta el verano}}
+      \field{year}{2021}
+      \verb{file}
+      \verb /home/statick/Zotero/storage/XNTZV8DW/amazon-ofrece-gratuitamente-su-herramienta-teletrabajo-para-pymes-50-escritorios-remotos-verano.html
+      \endverb
+    \endentry
+    \entry{SolucionesDisenadasPara2022}{misc}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Las escuelas y las universidades aprovechan los productos, programas y acciones filantrópicas de Google para mejorar el aprendizaje y la innovación.}
+      \field{howpublished}{https://edu.google.com/intl/es-419\_ALL/}
+      \field{journaltitle}{Google~for~Education}
+      \field{langid}{spanish}
+      \field{title}{{Soluciones diseñadas para profesores y alumnos | Google for Education}}
+      \field{year}{2022}
+      \verb{file}
+      \verb /home/statick/Zotero/storage/Z9J3RHR6/es-419_ALL.html
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
