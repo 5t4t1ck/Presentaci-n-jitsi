@@ -14,26 +14,29 @@ cls: apa.cls
  
 **Autor:** Lic. Diego Saavedra Mg. Sc.
 
-**Institución:** Instituto Superior Tecnológico Juan Montalvo.
+**Institución:** [Instituto Superior Tecnológico Juan Montalvo](https://istjm.edu.ec/).
 
 **Fecha:** 24 de mayo del 2022.
 ---
-# Herramientas de Organización en PyMES y Micro PyMES.
 
-## Watsapp
+Desgraciado del pueblo donde los jóvenes son humildes con el tirano, donde los estudiantes no hacen temblar al mundo
+
+Juan Montalvo
+
+
+
+# Watsapp
 
 Según @pregoWhatsAppAbreSu2022 la app de mensajería dispone ya desde hace tiempo de un servicio pensado para la comunicación empresarial, WhatsApp Business, y una plataforma de negocios que —entre otras cosas— **permite** generar un sistema de respuestas automáticas, bots, para facilitar el contacto entre los negocios y sus clientes. 
+ <br>
 
 Por otra parte se anuncia la apertura de una API que beneficiará a importantes PyMES y Micro PyMES [-@pregoWhatsAppAbreSu2022].
 
-
-## Amazon
+# Amazon
 
 @rodriguezAmazonOfreceGratuitamente2021 menciona la oferta de Amazon incluye 50 escritorios en remoto, un paquete de rendimiento de Windows, dos paquetes estándar de Linux y un paquete de valor de Windows de Workspaces, que podrán usarla sin cargos hasta el 31 de julio de 2021. 
 
----
-
-## Google
+# Google
 
 Workspaces Google| Dispositivos
 -----|-----:
@@ -45,12 +48,12 @@ Durante la pandemia aparecieron soluciones como **Google For Education** para qu
  
 Esto permitió a profesores de distintas instituciones educativas poder utilizar diferentes herramientas de **Google** como Drive, Meet, Gmail, Classroom, entre otros (Servicios propios de G Suite ahora llamado Workspaces).
   
-### Calendario sincronizado en la organización.
+# Calendario sincronizado en la organización.
   
 Workspace Calendar permite sincronizar eventos, recordatorios o reuniones de forma gratuita para PyMES y Micro PyMES de forma gratuita, además de configurar de forma sencilla y agregando reuniones de Meet, Zoom, entre otras herramientas @CalendarioGoogleCalendarios2022.
 
 
-### Drive para Documentos en la nube.
+# Drive para Documentos en la nube.
 
 ![Workspaces Drive](media/drive.png "Title: Workspaces Drive"){fig-alt="Herramientas de PyMES"}
 
@@ -63,8 +66,6 @@ Estos servicios permiten a las PyMES y Micro PyMES poder almacenar sus archivos 
 En 2020 se anuncia **"Workspaces Google"**, su nueva plataforma de colaboración para pequeñas y grandes empresas que viene a sustituir y unificar G Suite. Se trata de un espacio de trabajo para usuarios profesionales que integra todos los servicios de Google, a saber Gmail, Calendar, Drive, Docs y Meet. 
 
 De esa forma, los trabajadores y usuarios pueden acceder a todo tipo de documentos o contenidos desde un mismo lugar según @garciaSuiteAhoraEs2020.
-
----
 
 # Conversaciones seguras y centralizadas con el chat.
  
@@ -81,8 +82,6 @@ Se encuentran dentro de @NextcloudOnlyOfficeRafael2020 de lo cual se puede conoc
 ---
 
 # Propuesta Inicial.
-
-A continuación se presenta algunas ídeas que pueden ser útiles al momento de elaborar un plan de mejoras en la organizción donde usted tiene incidencia.
 
 1. Curso de G Suite (Google Documents, Spreadsheets and Presentations, Calendar, etc). 
 2. Curso de Comunicaciones Seguras.
@@ -143,7 +142,7 @@ Existen multiples herramientas que nos permite tomar notas de forma virtual, ent
 * Microsoft OneNote.
 * Moleskine Journal.
 
-## Propuesta
+# Propuesta
  
 1. Responder automáticamente solicitudes por correo electrónico.
 2. Asigna los clientes potenciales entrantes a tu representante de ventas.
@@ -152,7 +151,6 @@ Existen multiples herramientas que nos permite tomar notas de forma virtual, ent
 5. Facilita a los clientes pedir ayuda.
 6. Usa un chat o un bot.
 7. Limpia tus listas de correos.
-
 
 # Ir más allá.
  
